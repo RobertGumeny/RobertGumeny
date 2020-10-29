@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello! 👋 My name is Robert, I am a software developer from the United States. 
 
 <img align="left" alt="Robert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RobertGumeny&show_icons=true&hide_border=true" />
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--
 **RobertGumeny/RobertGumeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
